@@ -1,0 +1,19 @@
+{
+  "name": "brut-net",
+  "version": "1.1.0",
+  "description": "Easily convert brut to net salary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "brut-net": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Michaelvilleneuve/brut-net"
+  },
+  "author": "Michaël Villeneuve",
+  "license": "MIT",
+  "dependencies": {}
+}
